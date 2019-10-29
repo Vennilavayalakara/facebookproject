@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Python-3.7.4
-=======
 python-3.7.4
->>>>>>> efe69f7346222bd1cdc5243b614454a4c2da7e2e
